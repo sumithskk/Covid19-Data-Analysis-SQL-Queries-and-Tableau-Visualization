@@ -1,7 +1,6 @@
 # Covid19-Data-Analysis-SQL-Queries-and-Tableau-Visualization
 
-
-![covid19-dashboard](https://user-images.githubusercontent.com/42634704/143480855-88dbd3b6-d054-400e-9bee-7ad2a121c36c.png)
+![covid-Insights-CasesandDeaths](https://user-images.githubusercontent.com/42634704/144069582-94d99a48-2a5f-4fbc-800c-6f5d002eb0ce.png)
 
 Tableau Dashboard Link - https://public.tableau.com/app/profile/sumith1897/viz/Covid19-Analysis-Dashboard/Dashboard1
 
